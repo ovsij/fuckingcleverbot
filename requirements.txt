@@ -1,0 +1,13 @@
+aiogram
+boto
+gspread
+requests
+beautifulsoup4
+asyncio
+pandas
+numpy
+emoji
+asyncio
+fuzzywuzzy
+telegraph
+psycopg2
