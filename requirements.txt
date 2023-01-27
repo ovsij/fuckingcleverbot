@@ -1,0 +1,14 @@
+aiogram==2.24
+aiohttp==3.8.3
+asyncio==3.4.3
+beautifulsoup4==4.11.1
+emoji==2.2.0
+fuzzywuzzy==0.18.0
+numpy==1.24.1
+pandas==1.5.3
+pony==0.7.16
+python-dotenv==0.21.0
+python-Levenshtein=0.20.9
+requests==2.28.2
+telegraph==2.2.0
+uvicorn==0.20.0

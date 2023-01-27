@@ -1,0 +1,4 @@
+version: '3'
+services:
+  fuckingclever_bot:
+    image: dockerbot:latest
